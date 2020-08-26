@@ -1,0 +1,33 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+button:focus { outline: none; }
+
+#home {
+    width: 100vw;
+    height: 100vh;
+    color: white;
+    background: linear-gradient(rgba(41, 45, 66, 0.25), rgba(0, 0, 0, 0.5)), url(../img/15614775255199.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    background-color: #464646;
+    display: grid;
+    align-content: center;
+    justify-items: center;
+    text-shadow: 0 0 5px #444;
+}
+
+#home h1 {
+    width: 75%;
+    font-size: 4rem;
+    margin-bottom: 40px;
+}
+
+#home p {
+    width: 75%;
+    font-size: 1.25rem;
+}
