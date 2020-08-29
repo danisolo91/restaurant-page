@@ -1,3 +1,3 @@
 This is my "Restaurant Page" project for TheOdinProject curriculum.
 
-** Still under development...
+See it here: https://danisolo91.github.io/restaurant-page/
